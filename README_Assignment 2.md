@@ -4,6 +4,7 @@ This project fine tunes a BERT style LLM on the IMDb dataset for binary sentimen
 
 This was completed as part of the Research Methods (7PAM2015) module assignment.
 
+
 **Objective
 
 Explore the capabilities of BERT in understanding and classifying the sentiment of natural language text through supervised fine tuning.
@@ -16,6 +17,7 @@ Task - Binary sentiment classification
 Fine tuning - 2 epochs
 	      learning rate = 2e-5
 	      batch size = 16
+
 
 **Data set 
 
